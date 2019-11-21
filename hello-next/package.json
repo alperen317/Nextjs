@@ -1,0 +1,27 @@
+{
+  "name": "Nextjs",
+  "version": "1.0.0",
+  "description": "Nextjs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alperen317/Nextjs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alperen317/Nextjs/issues"
+  },
+  "homepage": "https://github.com/alperen317/Nextjs#readme",
+  "dependencies": {
+    "next": "^9.1.4",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  }
+}
